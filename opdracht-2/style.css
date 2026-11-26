@@ -1,0 +1,56 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Lichtgrijze section */
+.section-licht {
+    background-color: #eee;
+    padding: 25px 0;
+}
+
+/* Donkergrijze section */
+.section-donker {
+    background-color: #aaa;
+    padding: 25px 0;
+}
+
+/* Witte achtergrond voor content */
+.achtergrond-wit {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    height: 100%;
+}
+
+/* Section titels */
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Card titels */
+h3 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Paragrafen */
+p {
+    font-size: 12px;
+}
+
+/* Lijst */
+ul {
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+/* Product afbeelding */
+.product-afbeelding {
+    width: 100%;
+    border: 3px solid white;
+    border-radius: 5px;
+}
